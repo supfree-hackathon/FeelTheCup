@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF9800"
+    tools:context=".QReader">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="163dp"
+        android:layout_height="171dp"
+        app:srcCompat="@drawable/websiteQRCode_noFrame"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Return"
+        android:textColor="@color/black"
+        android:textSize="22"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="X   Close"
+        android:textColor="@color/black"
+        android:textColorHighlight="@color/white"
+        android:textColorHint="@color/white"
+        android:textColorLink="#FFFFFF"
+        android:textSize="18"
+        android:textStyle="bold"
+        app:iconTint="#FFFFFF"
+        app:rippleColor="#FFFFFF"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="643dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

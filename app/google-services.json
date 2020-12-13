@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720378604819",
+    "project_id": "feelthecup",
+    "storage_bucket": "feelthecup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720378604819:android:de6d998b39b192bbf67ee6",
+        "android_client_info": {
+          "package_name": "com.example.feelthecup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720378604819-ugb9glsablap8ifvsoiqosiufc8eqnv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChTIL3QPGZJ_hNW528yXXfwheZ9jZ5hRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720378604819-ugb9glsablap8ifvsoiqosiufc8eqnv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
